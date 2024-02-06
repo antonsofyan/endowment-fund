@@ -624,7 +624,7 @@ section {
 
 @media (min-width: 1024px) {
   .section-title p {
-    width: 90%;
+    width: 75%;
   }
 }
 
